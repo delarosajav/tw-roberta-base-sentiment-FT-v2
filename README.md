@@ -165,7 +165,7 @@ The following hyperparameters were used during training:
 ## CITATION:
 
 - **Pre-trained model:**
-- 
+
 ```bibitex
 @inproceedings{barbieri-etal-2020-tweeteval,
     title = "{T}weet{E}val: Unified Benchmark and Comparative Evaluation for Tweet Classification",
