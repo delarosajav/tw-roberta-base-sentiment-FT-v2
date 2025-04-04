@@ -183,9 +183,22 @@ If you use this model, please cite the following paper:
     pages = "1644--1650"
 }
 ```
+- **Citation for this model:**
+```bibitex
+@misc{delarosa2025hatespeechbeto,
+  author = {Javier de la Rosa Sánchez},
+  title = {HateSpeech-BETO-cased-v2: A Fine-Tuned Model for Hate Speech Detection in Spanish},
+  year = {2025},
+  url = {https://huggingface.co/your-model-url},
+  note = {Hugging Face Model Repository},
+}
+```
+Please, if you use this model, do not forget to include my citation. Thank you!
 
-## More Information
+## 14. Authorship and Contact Information:
 
-- Fine-tuned by Javier de la Rosa Sánchez.
-- javier.delarosa95@gmail.com
-- https://www.linkedin.com/in/delarosajav95/
+This model was fine-tuned and optimized by **Javier de la Rosa Sánchez**, applying state-of-the-art techniques to enhance its performance for hate speech detection in Spanish. 
+
+For inquiries or collaboration opportunities, please contact:  
+- Email: [javier.delarosa95@gmail.com](mailto:javier.delarosa95@gmail.com)  
+- LinkedIn: [linkedin.com/in/delarosajav95](https://www.linkedin.com/in/delarosajav95/)
