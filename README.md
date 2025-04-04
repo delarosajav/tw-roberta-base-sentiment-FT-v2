@@ -164,8 +164,8 @@ The following hyperparameters were used during training:
 
 ## CITATION:
 
-If you use this model, please cite the following paper:
-
+- **Pre-trained model:**
+- 
 ```bibitex
 @inproceedings{barbieri-etal-2020-tweeteval,
     title = "{T}weet{E}val: Unified Benchmark and Comparative Evaluation for Tweet Classification",
@@ -185,11 +185,11 @@ If you use this model, please cite the following paper:
 ```
 - **Citation for this model:**
 ```bibitex
-@misc{delarosa2025hatespeechbeto,
+@misc{delarosa2025twrobertabasev2,
   author = {Javier de la Rosa Sánchez},
-  title = {HateSpeech-BETO-cased-v2: A Fine-Tuned Model for Hate Speech Detection in Spanish},
+  title = {tw-roberta-base-sentiment-FT-v2: A Fine-Tuned Model for Sentiment Analysis on Twitter Data},
   year = {2025},
-  url = {https://huggingface.co/your-model-url},
+  url = {https://huggingface.co/delarosajav95/tw-roberta-base-sentiment-FT-v2},
   note = {Hugging Face Model Repository},
 }
 ```
@@ -197,7 +197,7 @@ Please, if you use this model, do not forget to include my citation. Thank you!
 
 ## 14. Authorship and Contact Information:
 
-This model was fine-tuned and optimized by **Javier de la Rosa Sánchez**, applying state-of-the-art techniques to enhance its performance for hate speech detection in Spanish. 
+This model was fine-tuned by **Javier de la Rosa Sánchez**, using state-of-the-art techniques to enhance its performance for sentiment analysis on Twitter data.
 
 For inquiries or collaboration opportunities, please contact:  
 - Email: [javier.delarosa95@gmail.com](mailto:javier.delarosa95@gmail.com)  
